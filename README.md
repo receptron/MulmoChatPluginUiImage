@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/%40mulmochat-plugin%2Fui-image.svg)](https://badge.fury.io/js/%40mulmochat-plugin%2Fui-image)
 # @mulmochat-plugin/ui-image
 
 Shared image UI components for MulmoChat plugins.
