@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/%40mulmochat-plugin%2Fui-image.svg)](https://badge.fury.io/js/%40mulmochat-plugin%2Fui-image)
+[![scoria](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/receptron/MulmoChatPluginUiImage/badges/scoria.json)](https://github.com/receptron/MulmoChatPluginUiImage/actions/workflows/scoria.yml)
 # @mulmochat-plugin/ui-image
 
 Shared image UI components for MulmoChat plugins.
